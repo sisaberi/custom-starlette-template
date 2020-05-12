@@ -6,6 +6,7 @@ A [cookiecutter](https://github.com/cookiecutter/cookiecutter) template for Star
 
 ```
 $ pip install cookiecutter
+$ cookiecutter https://github.com/sisaberi/custom-starlette-template.git
 ```
 
 You will be asked about your basic info (name, project name, app name, etc.). This info will be used in your new project.
